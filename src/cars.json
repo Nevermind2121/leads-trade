@@ -1,0 +1,128 @@
+[
+  {
+    "title":"chevrolet chevelle",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "image": "https://cdn.bringatrailer.com/wp-content/uploads/2017/09/59af40da4cdfe_142933-e1505497855239-940x675.jpg",
+    "price":3070
+  },
+  {
+    "title":"buick skylark 320",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "image": "http://topclassiccarsforsale.com/uploads/photoalbum/1964-buick-skylark-2dr-coupe-matching-numbersprotector-plate-car-1.jpg",
+    "price":3500
+  },
+  {
+    "title":"plymouth satellite",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "image": "https://s3.amazonaws.com/images.hagerty.com/vehicle/web/MecumAuctionsKissimmee2018_L206_Plymouth_1974_Satellite%20Sebring_Hardtop%20Coupe_RH23C4G265730_Overall.jpeg",
+    "price":3180
+  },
+  {
+    "title":"amc rebel sst",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "image": "http://car-from-uk.com/ebay/carphotos/full/ebay30156.jpg",
+    "price":3040
+  },
+  {
+    "title":"ford torino",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "image": "https://cdn.bringatrailer.com/wp-content/uploads/2017/11/FrontDrivers-1-940x529.jpg",
+    "price":3020
+  },
+  {
+    "title":"ford galaxie 500",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "image": "https://s3.amazonaws.com/images.hagerty.com/vehicle/web/1966_Ford_Galaxie%20500%207-Litre_Conver_%20tible_1.JPG",
+    "price":4290
+  },
+  {
+    "title":"chevrolet impala",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "image": "https://www.burienchevrolet.com/assets/shared/CustomHTMLFiles/Responsive/MRP/Chevrolet/2018/Impala/images/2018-Chevrolet-Impala-07.jpg",
+    "price": 4540
+  },
+  {
+    "title":"plymouth fury iii",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "image": "https://barnfinds.com/wp-content/uploads/2017/11/112617-1969-Plymouth-Fury-III-1-e1511797073285-630x354.jpg",
+    "price": 4400
+  },
+  {
+    "title":"pontiac catalina",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "image": "https://cdn.dealeraccelerate.com/dragers/1/13/518/790x1024/1962-pontiac-catalina",
+    "price":4550
+  },
+  {
+    "title":"amc ambassador dpl",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "image": "http://www.amcrc.com/sale/huber1.jpg",
+    "price":3900
+  },
+  {
+    "title":"citroen ds-21 pallas",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "image": "https://cdn.bringatrailer.com/wp-content/uploads/2017/11/Dsc_0360-1-940x627.jpg",
+    "price":1330
+  },
+  {
+    "title":"chevrolet chevelle concours (sw)",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "image": "http://www.vaultcars.com/wp-content/uploads/69Chevelle-0031.jpg",
+    "price":3500
+  },
+  {
+    "title":"ford torino (sw)",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "image": "http://2.bp.blogspot.com/-qfs4VK-S-3A/USeYgDuNviI/AAAAAAAADuo/JtgtngEZ2BU/s1600/1970+Ford+Falcon.jpg",
+    "price":3510
+  },
+  {
+    "title":"plymouth satellite (sw)",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "image": "http://www.2040-cars.com/_content/cars/images/36/116536/001.jpg",
+    "price":3830
+  },
+  {
+    "title":"volkswagen super beetle 117",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "image": "https://static.cargurus.com/images/site/2011/06/15/12/35/1972_volkswagen_super_beetle-pic-2603296448413044369-1600x1200.jpeg",
+    "price":970
+  },
+  {
+    "title":"amc gremlin",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "image": "https://pictures.topspeed.com/IMG/jpg/201607/amc-gremlin-8.jpg",
+    "price":2320
+  },
+  {
+    "title":"plymouth satellite custom",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "image": "https://assets.hemmings.com/story_image/172391-500-0.jpg",
+    "price":2250
+  },
+  {
+    "title":"chevrolet chevelle malibu",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "image": "https://www.hemmings.com/blog/wp-content/uploads//2015/12/1972ChevroletMalibu_01_700-700x426.jpg",
+    "price":2500
+  },
+  {
+    "title":"ford torino 500",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "image": "https://imganuncios.mitula.net/ford_torino_1970_1970_ford_torino_3840003507136382308.jpg",
+    "price":2500
+  },
+  {
+    "title":"amc matador",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "image": "http://imagesvc.timeincapp.com/v3/foundry/image/?q=70&w=1440&url=https%3A%2F%2Ftimedotcom.files.wordpress.com%2F2017%2F12%2Famc-matador.jpg%3Fquality%3D85",
+    "price":2320
+  },
+  {
+    "title":"chevrolet impala",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "image": "https://di-uploads-pod5.dealerinspire.com/mccluskeyautomotive/uploads/2018/04/used-2017-chevrolet-impala.jpg",
+    "price":3500
+  }
+]
