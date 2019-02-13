@@ -81,7 +81,7 @@ export class App extends Component {
   }
 
   updateTrolleyData() {
-    const trolley = store.get('trolley')
+    const trolley = store.get('trolley') || []
     const itemsInTrolley = trolley.length
     const totalPrice = trolley.reduce((acc, car) => acc + car.price, 0)
     this.setState({ itemsInTrolley, totalPrice })
